@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1421546690 source:/home/chuka/Documents/Cplusplus-projects/Filein/main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<iterator>
+	"inputData.h"
+	<sstream>
+
+1421483302 source:/home/chuka/Documents/Cplusplus-projects/Filein/src/readFile.cpp
+	"readFile.h"
+
+1421483302 /home/chuka/Documents/Cplusplus-projects/Filein/include/readFile.h
+
+1421703410 /home/chuka/Documents/Cplusplus-projects/Filein/include/inputData.h
+	<iostream>
+	<vector>
+
+1421699069 source:/home/chuka/Documents/Cplusplus-projects/Filein/src/inputData.cpp
+	"inputData.h"
+	<fstream>
+	<sstream>
+	<iterator>
+
+1421699309 source:/home/chuka/Documents/Cplusplus-projects/Filein/mymain.cpp
+	"inputData.h"
+
